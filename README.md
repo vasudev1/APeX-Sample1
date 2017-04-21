@@ -52,6 +52,6 @@ python facedetect.py
 python peopledetect.py
 ```
 You should see an output such as the following:
-<Image coming soon> 
+**Image coming soon**
 
 
